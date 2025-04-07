@@ -1,4 +1,4 @@
-
+// Clase de produtos 
 public class Produto {
 
 	private double peso;
